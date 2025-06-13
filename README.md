@@ -5,8 +5,8 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 🚀 Live Site
 
-👉 [Click here to view the live site](https://your-username.github.io/portfolio/)  
-*(Replace `your-username` with your actual GitHub username)*
+👉 [Click here to view the live site](https://Monisha125.github.io/portfolio/)  
+
 
 ---
 
@@ -36,5 +36,15 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - Managing version control with Git
 
 ---
+## 🙋‍♀️ About Me
 
+I’m a 3rd-year IT engineering student passionate about full-stack development, AI, and cybersecurity.
+
+## 📬 Contact
+
+You can reach me through the contact form on the website or via [GitHub](https://github.com/Monisha125).
+
+## 📄 License
+
+This project is open-source and free 
 
